@@ -1,6 +1,7 @@
 OUTPUT:
 
-https://www.kapwing.com/videos/65afcd7de878f9822d9bd2f8
+
+https://github.com/PemmasaniJahnavi/currency-converter-typescript/assets/155504574/595decc6-5e14-43dd-9eaa-ca96b0381846
 
 To use this php build currency converter we need to have prior database creation and tables creation.
 
